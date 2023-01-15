@@ -13,19 +13,19 @@
       <img src="https://img.shields.io/badge/react-17.0.2-informational?logo=react"></img>
    </a>
 
-   <a href="https://github.com/mathrb22/podcastrnext/commits/main">
+   <a href="https://github.com/robinndev/podcastrnext/commits/main">
       <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/mathrb22/podcastrnext">
    </a>
 
-   <a href="https://github.com/mathrb22/podcastrnext/issues">
+   <a href="https://github.com/robinndev/podcastrnext/issues">
       <img alt="GitHub Issues" src="https://img.shields.io/github/issues/mathrb22/podcastrnext">
    </a>
 
-   <a href="https://github.com/mathrb22/podcastrnext/pulls">
+   <a href="https://github.com/robinndev/podcastrnext/pulls">
       <img alt="Pull Requests Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square">
    </a>
 
-   <a href="https://github.com/mathrb22/podcastrnext/blob/main/LICENSE.md">
+   <a href="https://github.com/robinndev/podcastrnext/blob/main/LICENSE.md">
       <img alt="GitHub License" src="https://img.shields.io/github/license/mathrb22/podcastrnext">
    </a>
    </br>
@@ -108,7 +108,7 @@ Para baixar o código-fonte do projeto em sua máquina, primeiramente terá que 
 Com o Git instalado, em seu terminal execute o seguinte comando:
 
 ```bash
-git clone https://github.com/mathrb22/podcastrnext.git
+git clone https://github.com/robinndev/podcastrnext.git
 ```
 
 Para instalar as dependências e executar o projeto terá que ter instalado em sua máquina o [**Node.js**](https://nodejs.org/en/), que vem acompanhado do NPM. Com ele instalado:
@@ -149,7 +149,7 @@ Entre em contato comigo por e-mail ou pelo meu LinkedIn:
 
 ## 📝 Licença
 
-<a href="https://github.com/mathrb22/podcastrnext/blob/main/LICENSE.md">
+<a href="https://github.com/robinndev/podcastrnext/blob/main/LICENSE.md">
     <img alt="GitHub License" src="https://img.shields.io/github/license/mathrb22/podcastrnext">
 </a>
 
@@ -158,5 +158,5 @@ Esse projeto está sob a licença **MIT**. Veja o arquivo _**LICENSE**_ para mai
 ---
 
 <h5 align="center">
-  &copy;2021 - <a href="https://github.com/mathrb22/">Matheus Ribeiro</a>
+  &copy;2021 - <a href="https://github.com/robinndev/">Robson da Silvag</a>
 </h5>
