@@ -158,5 +158,5 @@ Esse projeto está sob a licença **MIT**. Veja o arquivo _**LICENSE**_ para mai
 ---
 
 <h5 align="center">
-  &copy;2021 - <a href="https://github.com/robinndev/">Robson da Silvag</a>
+  &copy;2021 - <a href="https://github.com/robinndev/">Robson da Silva</a>
 </h5>
